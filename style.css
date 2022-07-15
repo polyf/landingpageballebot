@@ -84,6 +84,10 @@ body {
     color: #2F2325;
 }
 
+.conteudo-principal-escrito-botao:hover {
+    background-color: rgba(236, 214, 196, 0.53);
+}
+
 .conteudo-principal-imagem {
     height: 430px;
 }
@@ -103,4 +107,26 @@ body {
     font-size: 24px;
     font-weight: 400;
     color: #FFF2E7;
+    margin-bottom: 16px;
 }
+
+.conteudo-secundario-paragrafo {
+    font-family: 'Sarala', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #FFF2E7;
+    
+}
+
+.rodape {
+    border-top: 0.4px solid #FFF2E7;
+    padding: 32px;
+
+}
+
+.rodape-imagem {
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+}
+
